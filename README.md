@@ -2,7 +2,7 @@
 Deep Learning with python 
 ## Introduction 
 Here is my python source code for 12 project using Deep Learning
-* **Project 1: Footbal Analysis**
+* **Project 1: Football Analysis**
 * **Project 2: Create LeNet Neural Network**
 * **Project 3: Classification for wine using Deep Learning**
 * **Project 4: Tennis Analysis**
